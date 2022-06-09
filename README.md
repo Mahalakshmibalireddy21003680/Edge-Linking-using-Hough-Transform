@@ -40,6 +40,8 @@ End the program.
 
 ## Program:
 ```Python
+# Developed by: B.Mahalakshmi
+# Register No.: 212221240008
 
 # Read image and convert it to grayscale image
 
